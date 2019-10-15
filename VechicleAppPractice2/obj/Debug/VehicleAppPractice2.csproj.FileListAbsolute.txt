@@ -1,0 +1,10 @@
+F:\VehicleApp-master\VechicleAppPractice2\bin\Debug\VechicleAppPractice2.exe.config
+F:\VehicleApp-master\VechicleAppPractice2\bin\Debug\VechicleAppPractice2.exe
+F:\VehicleApp-master\VechicleAppPractice2\bin\Debug\VechicleAppPractice2.pdb
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VehicleAppPractice2.csprojAssemblyReference.cache
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VechicleAppPractice2.Properties.Resources.resources
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VechicleAppPractice2.VehicleUi.resources
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VehicleAppPractice2.csproj.GenerateResource.cache
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VehicleAppPractice2.csproj.CoreCompileInputs.cache
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VechicleAppPractice2.exe
+F:\VehicleApp-master\VechicleAppPractice2\obj\Debug\VechicleAppPractice2.pdb
